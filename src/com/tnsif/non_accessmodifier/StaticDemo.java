@@ -14,7 +14,7 @@ public class StaticDemo {
 	}
 	//static method
 	static void display() {
-		System.out.println("showing the static variable's count:");
+		System.out.println("showing the static variable's count:"+count);
 		
 	}
 public static void main(String[] args) {
